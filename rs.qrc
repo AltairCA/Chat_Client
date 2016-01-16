@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>back.png</file>
+        <file>messenger_013.png</file>
+        <file>Offline.png</file>
+        <file>app.ico</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>restore.png</file>
+        <file>minimize-icon.PNG</file>
+        <file>Users.png</file>
+        <file>exit-icon-2013105.PNG</file>
+        <file>smiley-happy014.gif</file>
+        <file>loud_happy.gif</file>
+        <file>love_smile.gif</file>
+        <file>smiley-love006.gif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>webview.qml</file>
+    </qresource>
+</RCC>
